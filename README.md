@@ -14,3 +14,5 @@ Currently can only scrap top 25 jobs from linkedin page. Can not "press" show mo
 Solution: run the job in short interval (ie: 5/10 minutes)
 
 Chrome version: 76.0.3809.68
+R version: 3.6.0
+RStudio version: 1.2.1335
