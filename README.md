@@ -12,3 +12,5 @@ Report can be seen here: https://docs.google.com/spreadsheets/d/1ocJ2JZX6Hs_3YGF
 Weakness of this script:
 Currently can only scrap top 25 jobs from linkedin page. Can not "press" show more button and scrap more job info.
 Solution: run the job in short interval (ie: 5/10 minutes)
+
+Chrome version: 76.0.3809.68
